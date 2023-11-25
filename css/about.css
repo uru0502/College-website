@@ -42,11 +42,11 @@
   font-size: 2rem;
 }
 
-.achievement__card:nth-child(2).achievement__icon {
+.achievement__card:nth-child(2) .achievement__icon {
   background: var(--color-success);
 }
 
-.achievement__card:nth-child(3).achievement__icon {
+.achievement__card:nth-child(3) .achievement__icon {
   background: var(--color-primary);
 }
 
